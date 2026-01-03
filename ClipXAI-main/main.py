@@ -53,7 +53,7 @@ ASPECT_RATIO_WIDTH = int(os.getenv("ASPECT_RATIO_WIDTH", "9"))
 ASPECT_RATIO_HEIGHT = int(os.getenv("ASPECT_RATIO_HEIGHT", "16"))
 
 # --- Groq API ---
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "your_groq_api_key_here")
 
 # --- Subtitles ---
 SUBTITLE_FONT = "Montserrat Extra Bold"
